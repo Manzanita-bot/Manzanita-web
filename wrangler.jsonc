@@ -1,5 +1,14 @@
+
 {
   "name": "manzanita-anonimos",
   "main": "worker.js",
-  "compatibility_date": "2026-10-27"
+  "compatibility_date": "2026-10-27",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "manzanita-confesiones",
+      "database_id": "d541df79-47b9-4b51-a8b1-a0e06fd199d4"
+    }
+  ]
 }
+  
